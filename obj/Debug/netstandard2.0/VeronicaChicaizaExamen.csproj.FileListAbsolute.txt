@@ -1,0 +1,16 @@
+C:\EJERCICIOS_MOVIL\VeronicaChicaizaExamen\VeronicaChicaizaExamen\VeronicaChicaizaExamen\bin\Debug\netstandard2.0\VeronicaChicaizaExamen.deps.json
+C:\EJERCICIOS_MOVIL\VeronicaChicaizaExamen\VeronicaChicaizaExamen\VeronicaChicaizaExamen\bin\Debug\netstandard2.0\VeronicaChicaizaExamen.dll
+C:\EJERCICIOS_MOVIL\VeronicaChicaizaExamen\VeronicaChicaizaExamen\VeronicaChicaizaExamen\bin\Debug\netstandard2.0\ref\VeronicaChicaizaExamen.dll
+C:\EJERCICIOS_MOVIL\VeronicaChicaizaExamen\VeronicaChicaizaExamen\VeronicaChicaizaExamen\bin\Debug\netstandard2.0\VeronicaChicaizaExamen.pdb
+C:\EJERCICIOS_MOVIL\VeronicaChicaizaExamen\VeronicaChicaizaExamen\VeronicaChicaizaExamen\obj\Debug\netstandard2.0\VeronicaChicaizaExamen.csprojAssemblyReference.cache
+C:\EJERCICIOS_MOVIL\VeronicaChicaizaExamen\VeronicaChicaizaExamen\VeronicaChicaizaExamen\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\EJERCICIOS_MOVIL\VeronicaChicaizaExamen\VeronicaChicaizaExamen\VeronicaChicaizaExamen\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\EJERCICIOS_MOVIL\VeronicaChicaizaExamen\VeronicaChicaizaExamen\VeronicaChicaizaExamen\obj\Debug\netstandard2.0\VeronicaChicaizaExamen.AssemblyInfoInputs.cache
+C:\EJERCICIOS_MOVIL\VeronicaChicaizaExamen\VeronicaChicaizaExamen\VeronicaChicaizaExamen\obj\Debug\netstandard2.0\VeronicaChicaizaExamen.AssemblyInfo.cs
+C:\EJERCICIOS_MOVIL\VeronicaChicaizaExamen\VeronicaChicaizaExamen\VeronicaChicaizaExamen\obj\Debug\netstandard2.0\VeronicaChicaizaExamen.csproj.CoreCompileInputs.cache
+C:\EJERCICIOS_MOVIL\VeronicaChicaizaExamen\VeronicaChicaizaExamen\VeronicaChicaizaExamen\obj\Debug\netstandard2.0\XamlC.stamp
+C:\EJERCICIOS_MOVIL\VeronicaChicaizaExamen\VeronicaChicaizaExamen\VeronicaChicaizaExamen\obj\Debug\netstandard2.0\VeronicaChicaizaExamen.dll
+C:\EJERCICIOS_MOVIL\VeronicaChicaizaExamen\VeronicaChicaizaExamen\VeronicaChicaizaExamen\obj\Debug\netstandard2.0\ref\VeronicaChicaizaExamen.dll
+C:\EJERCICIOS_MOVIL\VeronicaChicaizaExamen\VeronicaChicaizaExamen\VeronicaChicaizaExamen\obj\Debug\netstandard2.0\VeronicaChicaizaExamen.pdb
+C:\EJERCICIOS_MOVIL\VeronicaChicaizaExamen\VeronicaChicaizaExamen\VeronicaChicaizaExamen\obj\Debug\netstandard2.0\Registro.xaml.g.cs
+C:\EJERCICIOS_MOVIL\VeronicaChicaizaExamen\VeronicaChicaizaExamen\VeronicaChicaizaExamen\obj\Debug\netstandard2.0\Resumen.xaml.g.cs

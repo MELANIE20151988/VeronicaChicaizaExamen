@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="VeronicaChicaizaExamen.Registro">
+    <ContentPage.Content>
+        <StackLayout>
+
+            <Frame BackgroundColor="Black" Padding="24" CornerRadius="0">
+                <Label x:Name="lbUsuario" Text="Usuario: " TextColor="White"></Label>
+            </Frame>
+
+            <Grid BackgroundColor="Beige" RowSpacing="5" ColumnSpacing="15">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="3*"></ColumnDefinition>
+                    <ColumnDefinition Width="3*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50"></RowDefinition>
+                    <RowDefinition Height="50"></RowDefinition>
+                  
+                </Grid.RowDefinitions>
+                <Label Grid.Row="0" Grid.Column="0" Text="Nombre" TextColor="Black"></Label>
+                <Entry  x:Name="txtNombre" Grid.Row="0" Grid.Column="1" PlaceholderColor="Black" />
+
+                <Label Grid.Row="1" Grid.Column="0" Text="Monto Inicial: " TextColor="Black"></Label>
+                <Entry  x:Name="txtMontoInicial" Grid.Row="1" Grid.Column="1" PlaceholderColor="Black" />
+
+
+                <Label Grid.Row="2" Grid.Column="0" Text="Pago Mensual:" TextColor="Black"></Label>
+                <Entry  x:Name="txtMensual" Grid.Row="2" Grid.Column="1" PlaceholderColor="Black" IsEnabled="False" />
+
+                
+                <Entry  x:Name="txtPagoR" Grid.Row="3" Grid.Column="1" PlaceholderColor="Black" IsEnabled="False" IsVisible="False"/>
+
+                <Button x:Name="btnCalcular"  Grid.Row="4" Grid.Column="0" Text="Calcular"  Clicked="btnCalcular_Clicked"></Button>
+                <Button x:Name="btnguardar"  Grid.Row="4" Grid.Column="1" Text="Guardar" Clicked="btnguardar_Clicked"></Button>
+
+            </Grid>
+
+           
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

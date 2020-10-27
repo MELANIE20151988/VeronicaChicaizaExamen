@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="VeronicaChicaizaExamen.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Veronica Chicaiza" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+            <Image Source="https://sbsconsulting.com.ec/wp-content/uploads/2018/01/LOGO-UISRAEL-768x209.png" />
+        </Frame>
+        <Label Text="Ingrese Usuario y Contraseña" HorizontalTextAlignment="Center" TextColor="Black" FontSize="20"/>
+        <Entry  x:Name="txtUsuario" Placeholder="Usuario" PlaceholderColor="Black" />
+        <Entry x:Name="txtPass" Placeholder="Contraseña" PlaceholderColor="Black"  IsPassword="True"/>
+        <Button x:Name="butnIngreso" Text="Ingresar" Clicked="butnIngreso_Clicked"></Button>
+        <Button x:Name="butnRegistro" Text="Registrase" Clicked="butnRegistro_Clicked"></Button>
+
+
+    </StackLayout>
+
+</ContentPage>

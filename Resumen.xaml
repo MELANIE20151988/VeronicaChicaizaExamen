@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="VeronicaChicaizaExamen.Resumen">
+    <ContentPage.Content>
+        <StackLayout>
+            <Frame BackgroundColor="Black" Padding="24" CornerRadius="0">
+                <Label x:Name="lbUsuarioResumen" TextColor="White"></Label>
+                
+            </Frame>
+            
+            <Grid BackgroundColor="Teal" RowSpacing="15" ColumnSpacing="15">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.5*"></ColumnDefinition>
+                    <ColumnDefinition Width="0.5*"></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50"></RowDefinition>
+                    <RowDefinition Height="50"></RowDefinition>
+
+                </Grid.RowDefinitions>
+                <Label Grid.Row="0" Grid.Column="0" Text="Nombres: " TextColor="Black"></Label>
+                <Label x:Name="txtnombre" Grid.Row="0" Grid.Column="1"  TextColor="Black"></Label>
+
+                <Label Grid.Row="1" Grid.Column="0" Text="Total a Pagar: " TextColor="Black"></Label>
+                <Label x:Name="txtMonto" Grid.Row="1" Grid.Column="1"  TextColor="Black"></Label>
+
+            
+
+
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
